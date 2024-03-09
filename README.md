@@ -1,4 +1,4 @@
-# ecommerce-site developed a ecommerce website using html and css the following images are the preview of the webpages👇👇👇👇👇
+# developed a ecommerce website using html and css the following images are the preview of the webpages👇👇👇👇👇
 
 
 
