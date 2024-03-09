@@ -7,3 +7,5 @@
 
 ![Screenshot (101)](https://github.com/nareshgur/ecommerce-site/assets/121344451/5e6d652f-658f-4c09-aeef-83825a6807d5)
 ![Screenshot (103)](https://github.com/nareshgur/ecommerce-site/assets/121344451/02a5a07f-ce1b-42a9-a851-fc97fb5e2c3c)
+![image](https://github.com/nareshgur/ecommerce-site/assets/121344451/ec4e24d2-392d-4cff-8c54-bef7b588fc59)
+
