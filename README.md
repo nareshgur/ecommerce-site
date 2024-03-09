@@ -1,5 +1,5 @@
 # ecommerce-site
-developed a ecommerce website using html and css the following images are the preview of the webpages
+developed a ecommerce website using html and css the following images are the preview of the webpages👇👇👇👇👇
 
 
 ![image](https://github.com/nareshgur/ecommerce-site/assets/121344451/641e7fd7-71d3-4282-a11f-49cd414ab53d)
