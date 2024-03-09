@@ -1,2 +1,2 @@
 # ecommerce-site
-developed a ecommerce website using html css and responsive
+developed a ecommerce website using html and css 
